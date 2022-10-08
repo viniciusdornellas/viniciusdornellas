@@ -1,5 +1,5 @@
 - 👋 Olá, sou Vinícius Dornellas, estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo HTML, CSS e JavaScript ...
+
 
 
 <!---
